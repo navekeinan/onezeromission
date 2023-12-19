@@ -1,0 +1,50 @@
+[
+  {
+    "_id": 1,
+    "Bank_Code": 13,
+    "Bank_Name": "בנק אגוד לישראל בע\"מ",
+    "Branch_Code": 73,
+    "Atm_Num": 731,
+    "ATM_Address": "ניסנבאום 33",
+    "ATM_Address_Extra": "",
+    "City": "בת ים",
+    "Commission": "לא",
+    "ATM_Type": "משיכת מזומן",
+    "ATM_Location": "על קיר הסניף",
+    "Handicap_Access": "לא",
+    "X_Coordinate": 34.752276,
+    "Y_Coordinate": 32.012404
+  },
+  {
+    "_id": 3,
+    "Bank_Code": 13,
+    "Bank_Name": "בנק אגוד לישראל בע\"מ",
+    "Branch_Code": 147,
+    "Atm_Num": 1471,
+    "ATM_Address": "יהודה הנשיא 2",
+    "ATM_Address_Extra": "",
+    "City": "בית שמש",
+    "Commission": "לא",
+    "ATM_Type": "משיכת מזומן",
+    "ATM_Location": "על קיר הסניף",
+    "Handicap_Access": "לא",
+    "X_Coordinate": null,
+    "Y_Coordinate": null
+  },
+  {
+    "_id": 5,
+    "Bank_Code": 13,
+    "Bank_Name": "בנק אגוד לישראל בע\"מ",
+    "Branch_Code": 145,
+    "Atm_Num": 1451,
+    "ATM_Address": "שמעון פרס   33",
+    "ATM_Address_Extra": "",
+    "City": "ראשון לציון",
+    "Commission": "לא",
+    "ATM_Type": "משיכת מזומן",
+    "ATM_Location": "על קיר הסניף",
+    "Handicap_Access": "לא",
+    "X_Coordinate": null,
+    "Y_Coordinate": null
+  }
+]
